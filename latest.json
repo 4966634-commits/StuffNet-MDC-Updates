@@ -1,10 +1,10 @@
 ﻿{
-    "versionCode":  110365,
-    "versionName":  "11.3.65-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.65-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.65-v3/StuffNet-MDC-11.3.65-v3.apk",
-    "sha256":  "b7c3719dd6cbf49a014ab7665a2d0250d9f936cfa34dd44eb916b87324523ec2",
-    "publishedAt":  "2026-09-28T19:21:23Z",
+    "versionCode":  110366,
+    "versionName":  "11.3.66-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.66-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.66-v3/StuffNet-MDC-11.3.66-v3.apk",
+    "sha256":  "0dc5aa5c0aaefab489d050530023f4c544c5488fbe6f714fc40b8324412899ea",
+    "publishedAt":  "2026-09-28T19:39:33Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "Przywrocenie odtwarzania spotow MP4 (sciezka jak 11.3.60-v3). Logi MDC/Presentation. Mrugniecie spotow — osobna iteracja."
+    "releaseNotes":  "Rozszerzone logowanie MDC: ujednolicone prefiksy MDC/App, WebView, Presentation, Schedule, Service, Server, Download, Network, Files, Screen, Settings, OTA. Bufor logow 8000 linii. Snapshoty stanu przy starcie i prezentacji. Fix spotow 11.3.65 zachowany."
 }
