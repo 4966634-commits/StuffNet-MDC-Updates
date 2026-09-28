@@ -1,10 +1,10 @@
 ﻿{
-    "versionCode":  110363,
-    "versionName":  "11.3.63-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.63-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.63-v3/StuffNet-MDC-11.3.63-v3.apk",
-    "sha256":  "620c73dbbf6bd36730177c3ab2c08402b1ba7091c951728b1ddf48d6c76a34b3",
-    "publishedAt":  "2026-09-28T16:28:59Z",
+    "versionCode":  110365,
+    "versionName":  "11.3.65-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.65-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.65-v3/StuffNet-MDC-11.3.65-v3.apk",
+    "sha256":  "b7c3719dd6cbf49a014ab7665a2d0250d9f936cfa34dd44eb916b87324523ec2",
+    "publishedAt":  "2026-09-28T19:21:23Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "OTA: logi procesu aktualizacji (prefiks OTA:) + auto-wysylka na serwer po sprawdzeniu/pobraniu/instalacji. Wersja testowa OTA (110363 \u003e 110362)."
+    "releaseNotes":  "Przywrocenie odtwarzania spotow MP4 (sciezka jak 11.3.60-v3). Logi MDC/Presentation. Mrugniecie spotow — osobna iteracja."
 }
