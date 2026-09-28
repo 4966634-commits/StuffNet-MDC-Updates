@@ -1,0 +1,32 @@
+StuffNet-MDC-Updates — repozytorium GitHub OTA dla aplikacji MDC v3
+
+Cel:
+  Dystrybucja podpisanych APK StuffNet Mobile Data Cleaner v3.
+  Aplikacja na urzadzeniach sprawdza latest.json i pobiera nowsza wersje.
+
+URL manifestu (raw main):
+  https://raw.githubusercontent.com/4966634-commits/StuffNet-MDC-Updates/main/latest.json
+
+Repo:
+  https://github.com/4966634-commits/StuffNet-MDC-Updates
+
+Publikacja (z PC):
+  powershell -ExecutionPolicy Bypass -File skrypty\publish-mdc-apk.ps1
+
+Token:
+  G:\CURSORWORKSPACE\sekrety\StuffNet-Client\github.token
+
+Pliki w repo:
+  latest.json          — manifest aktualnej wersji
+  StuffNet-MDC-*.apk   — APK w drzewie main (widoczny na liscie plikow)
+  GitHub Release       — ten sam APK jako asset (URL w downloadUrl)
+
+Aktualna wersja (2026-09-28):
+  11.3.61-v3 (versionCode 110361)
+
+Tymczasowa publikacja (token bez prawa tworzenia repo):
+  StuffNet-Client/mdc-updates/latest.json
+  Release tag: mdc-v11.3.61-v3
+
+Po utworzeniu StuffNet-MDC-Updates na GitHub:
+  powershell -ExecutionPolicy Bypass -File skrypty\publish-mdc-apk.ps1

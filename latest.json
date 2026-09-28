@@ -1,0 +1,10 @@
+﻿{
+    "versionCode":  110361,
+    "versionName":  "11.3.61-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.61-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.61-v3/StuffNet-MDC-11.3.61-v3.apk",
+    "sha256":  "6a12eea3a2f7eb250c810d51d12688309edb4673d070780c3d9aa7d903299fef",
+    "publishedAt":  "2026-09-28T16:01:07Z",
+    "minVersionCode":  110000,
+    "releaseNotes":  "Spoty MP4: WebView widoczny do pierwszej klatki wideo (MEDIA_INFO_VIDEO_RENDERING_START) Spoty MP4: stopPlayback + INVISIBLE przed setVideoURI; bez mp.reset() miedzy klipami Klipy wlasne HTML: drugi przebieg bez videoElement.load() (currentTime=0) Harmonogram: rzedy godzin z layout_weight (auto dopasowanie do szerokosci ekranu)"
+}
