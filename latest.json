@@ -1,10 +1,10 @@
 ﻿{
-    "versionCode":  110366,
-    "versionName":  "11.3.66-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.66-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.66-v3/StuffNet-MDC-11.3.66-v3.apk",
-    "sha256":  "0dc5aa5c0aaefab489d050530023f4c544c5488fbe6f714fc40b8324412899ea",
-    "publishedAt":  "2026-09-28T19:39:33Z",
+    "versionCode":  110367,
+    "versionName":  "11.3.67-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.67-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.67-v3/StuffNet-MDC-11.3.67-v3.apk",
+    "sha256":  "8fc0513d470ff9b2fbc94880bb50b761d92feeee6a4ea8b4f9642fee90fc4695",
+    "publishedAt":  "2026-09-28T19:53:07Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "Rozszerzone logowanie MDC: ujednolicone prefiksy MDC/App, WebView, Presentation, Schedule, Service, Server, Download, Network, Files, Screen, Settings, OTA. Bufor logow 8000 linii. Snapshoty stanu przy starcie i prezentacji. Fix spotow 11.3.65 zachowany."
+    "releaseNotes":  "Logi aplikacji (Timber/MdcLog) zapisywane na dysk bez ucinania przed wysylka Tail logcat (main/system/crash/events) + snapshot logcat -d przed uploadem Auto-wysylka logow po heartbeat (autoSendLogs) i przycisk reczny â€” pelny payload app+logcat Duze logi wysylane w chunkach 8 MB; pliki czyszczone dopiero po udanym uploadzie Dziedziczy 11.3.66 (rozszerzone MdcLog) i fix spotow z 11.3.65"
 }
