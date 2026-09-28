@@ -1,10 +1,10 @@
 ﻿{
-    "versionCode":  110362,
-    "versionName":  "11.3.62-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.62-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.62-v3/StuffNet-MDC-11.3.62-v3.apk",
-    "sha256":  "41a55c78d146b1f1be10edcb003c8717c18ebbe4f10c6e989b334a0313ce6f8a",
-    "publishedAt":  "2026-09-28T16:13:06Z",
+    "versionCode":  110363,
+    "versionName":  "11.3.63-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.63-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.63-v3/StuffNet-MDC-11.3.63-v3.apk",
+    "sha256":  "620c73dbbf6bd36730177c3ab2c08402b1ba7091c951728b1ddf48d6c76a34b3",
+    "publishedAt":  "2026-09-28T16:28:59Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "OTA: modul aktualizacji z GitHub (latest.json, versionCode, SHA256) OTA: karta Ustawienia -\u003e Aktualizacje (auto/reczne, okno godzin) OTA: sprawdzanie co pelna godzine (AlarmManager) Dziedziczy poprawki 11.3.61 (spoty MP4, harmonogram layout_weight)"
+    "releaseNotes":  "OTA: logi procesu aktualizacji (prefiks OTA:) + auto-wysylka na serwer po sprawdzeniu/pobraniu/instalacji. Wersja testowa OTA (110363 \u003e 110362)."
 }
