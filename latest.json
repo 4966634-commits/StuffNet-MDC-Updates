@@ -1,10 +1,10 @@
 ﻿{
-    "versionCode":  110367,
-    "versionName":  "11.3.67-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.67-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.67-v3/StuffNet-MDC-11.3.67-v3.apk",
-    "sha256":  "8fc0513d470ff9b2fbc94880bb50b761d92feeee6a4ea8b4f9642fee90fc4695",
-    "publishedAt":  "2026-09-28T19:53:07Z",
+    "versionCode":  110368,
+    "versionName":  "11.3.68-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.68-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.68-v3/StuffNet-MDC-11.3.68-v3.apk",
+    "sha256":  "607759dd277543ac2359aac51274b2519695259d7ea40e334c07ec51ab7bbeb0",
+    "publishedAt":  "2026-09-29T19:42:37Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "Logi aplikacji (Timber/MdcLog) zapisywane na dysk bez ucinania przed wysylka Tail logcat (main/system/crash/events) + snapshot logcat -d przed uploadem Auto-wysylka logow po heartbeat (autoSendLogs) i przycisk reczny â€” pelny payload app+logcat Duze logi wysylane w chunkach 8 MB; pliki czyszczone dopiero po udanym uploadzie Dziedziczy 11.3.66 (rozszerzone MdcLog) i fix spotow z 11.3.65"
+    "releaseNotes":  "Zdalne wlaczenie auto_send_logs (pending_settings z serwera) auto_send_logs raportowane w app_settings_json (widoczne w panelu) Domyslnie auto_send_logs=true dla nowych instalacji Dziedziczy 11.3.67 (pelne logi app+logcat bez ucinania)"
 }
