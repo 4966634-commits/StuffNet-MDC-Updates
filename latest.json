@@ -1,10 +1,10 @@
 ﻿{
-    "versionCode":  110370,
-    "versionName":  "11.3.70-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.70-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.70-v3/StuffNet-MDC-11.3.70-v3.apk",
-    "sha256":  "e76d5f2c6315dbd8d72a912e4f43c765a49a423ec6de8027f4450331d32ee3b7",
-    "publishedAt":  "2026-09-30T06:39:34Z",
+    "versionCode":  110371,
+    "versionName":  "11.3.71-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.71-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.71-v3/StuffNet-MDC-11.3.71-v3.apk",
+    "sha256":  "ae29e34ba2c6bd943e44099bef17da9b62491ee2dfc09bbc447a77c5769288d1",
+    "publishedAt":  "2026-09-30T20:13:45Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "Zrzut urzadzenia: polaczone urzadzenia Bluetooth (panel podstawowy + rozszerzony)."
+    "releaseNotes":  "Prezentacja: start po bezczynnosci/SCREEN_OFF, bootstrap po boot i update bez logowania. Logi: streaming 512KB chunki, pelna wysylka na 2GB RAM."
 }
