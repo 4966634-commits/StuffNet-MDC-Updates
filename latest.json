@@ -1,10 +1,10 @@
 ﻿{
-    "versionCode":  110368,
-    "versionName":  "11.3.68-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.68-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.68-v3/StuffNet-MDC-11.3.68-v3.apk",
-    "sha256":  "607759dd277543ac2359aac51274b2519695259d7ea40e334c07ec51ab7bbeb0",
-    "publishedAt":  "2026-09-29T19:42:37Z",
+    "versionCode":  110369,
+    "versionName":  "11.3.69-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.69-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.69-v3/StuffNet-MDC-11.3.69-v3.apk",
+    "sha256":  "b5a8882ba8ea8d45a0e666c4e3de154866c2c2901542718bebe561d0672933ff",
+    "publishedAt":  "2026-09-30T06:32:02Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "Zdalne wlaczenie auto_send_logs (pending_settings z serwera) auto_send_logs raportowane w app_settings_json (widoczne w panelu) Domyslnie auto_send_logs=true dla nowych instalacji Dziedziczy 11.3.67 (pelne logi app+logcat bez ucinania)"
+    "releaseNotes":  "Liczba zainstalowanych aplikacji i sumaryczna zajetosc w zrzucie urzadzenia (panel: Informacje podstawowe)."
 }
