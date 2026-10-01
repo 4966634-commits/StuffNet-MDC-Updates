@@ -1,10 +1,10 @@
-﻿{
-    "versionCode":  110372,
-    "versionName":  "11.3.72-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.72-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.72-v3/StuffNet-MDC-11.3.72-v3.apk",
-    "sha256":  "1dd147e345d35aa9fe56924c1b79ea695ab2c6c3df34b7e72f96838a5a12060f",
-    "publishedAt":  "2026-09-30T20:27:37Z",
+{
+    "versionCode":  110374,
+    "versionName":  "11.3.74-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.74-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.74-v3/StuffNet-MDC-11.3.74-v3.apk",
+    "sha256":  "45ef4a4f029b667b6f5040bd5fa2779413791d3d833ba19f209cb1f10879065d",
+    "publishedAt":  "2026-10-01T19:53:34Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "Diagnostyka mrugniecia spotow MP4: spot_session_begin, position_probe, spot_flicker_suspected (double_start/prepared, position_reset, early_completion)."
+    "releaseNotes":  "Zdalne wlaczenie auto_send_logs (pending_settings z serwera) auto_send_logs raportowane w app_settings_json (widoczne w panelu) Domyslnie auto_send_logs=true dla nowych instalacji Dziedziczy 11.3.67 (pelne logi app+logcat bez ucinania)"
 }
