@@ -1,10 +1,10 @@
-{
-    "versionCode":  110374,
-    "versionName":  "11.3.74-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.74-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.74-v3/StuffNet-MDC-11.3.74-v3.apk",
-    "sha256":  "45ef4a4f029b667b6f5040bd5fa2779413791d3d833ba19f209cb1f10879065d",
-    "publishedAt":  "2026-10-01T19:53:34Z",
+﻿{
+    "versionCode":  110375,
+    "versionName":  "11.3.75-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.75-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.75-v3/StuffNet-MDC-11.3.75-v3.apk",
+    "sha256":  "22da4c7092d1de88a1ca8cf7c4abde23c928d14a65461dc915b706f04ce31b82",
+    "publishedAt":  "2026-10-05T06:40:40Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "Zdalne wlaczenie auto_send_logs (pending_settings z serwera) auto_send_logs raportowane w app_settings_json (widoczne w panelu) Domyslnie auto_send_logs=true dla nowych instalacji Dziedziczy 11.3.67 (pelne logi app+logcat bez ucinania)"
+    "releaseNotes":  "Fix auto-start harmonogramu (SCHEDULE_START): setExact jak END, immediate launch, FGS wake. Naprawa Hammer Android 14. Uniwersalna APK dla calej floty."
 }
