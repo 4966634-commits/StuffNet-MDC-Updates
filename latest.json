@@ -1,10 +1,10 @@
 ﻿{
-    "versionCode":  110375,
-    "versionName":  "11.3.75-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.75-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.75-v3/StuffNet-MDC-11.3.75-v3.apk",
-    "sha256":  "22da4c7092d1de88a1ca8cf7c4abde23c928d14a65461dc915b706f04ce31b82",
-    "publishedAt":  "2026-10-05T06:40:40Z",
+    "versionCode":  110376,
+    "versionName":  "11.3.76-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.76-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.76-v3/StuffNet-MDC-11.3.76-v3.apk",
+    "sha256":  "9aeab2aad30f14cb544d4dd5575b2ef3dedda071d41642f2ea5a126112bdba9e",
+    "publishedAt":  "2026-10-08T06:05:05Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "Fix auto-start harmonogramu (SCHEDULE_START): setExact jak END, immediate launch, FGS wake. Naprawa Hammer Android 14. Uniwersalna APK dla calej floty."
+    "releaseNotes":  "11.3.76: fix auto-wysylka logow (heartbeat bez SessionGate), SCREEN_OFF globalnie, harmonogram PREP+KEEPALIVE, bez secondary setAlarmClock. Prezentacja po ubiciu procesu."
 }
