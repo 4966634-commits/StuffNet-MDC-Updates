@@ -1,10 +1,10 @@
 ﻿{
-    "versionCode":  110376,
-    "versionName":  "11.3.76-v3",
-    "apkFileName":  "StuffNet-MDC-11.3.76-v3.apk",
-    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.76-v3/StuffNet-MDC-11.3.76-v3.apk",
-    "sha256":  "9aeab2aad30f14cb544d4dd5575b2ef3dedda071d41642f2ea5a126112bdba9e",
-    "publishedAt":  "2026-10-08T06:05:05Z",
+    "versionCode":  110377,
+    "versionName":  "11.3.77-v3",
+    "apkFileName":  "StuffNet-MDC-11.3.77-v3.apk",
+    "downloadUrl":  "https://github.com/4966634-commits/StuffNet-MDC-Updates/releases/download/v11.3.77-v3/StuffNet-MDC-11.3.77-v3.apk",
+    "sha256":  "70e3808e22a695900f6d325d2a435b1f2fe33fda1a1f5837739896556d4f5df0",
+    "publishedAt":  "2026-10-10T06:13:37Z",
     "minVersionCode":  110000,
-    "releaseNotes":  "11.3.76: fix auto-wysylka logow (heartbeat bez SessionGate), SCREEN_OFF globalnie, harmonogram PREP+KEEPALIVE, bez secondary setAlarmClock. Prezentacja po ubiciu procesu."
+    "releaseNotes":  "11.3.77: PREP przed START naprawiony, setAlarmClock+retry po nocy, heartbeat 9:00 backup, USER_PRESENT w oknie harmonogramu (Hammer/noc)."
 }
